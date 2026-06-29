@@ -36,4 +36,4 @@ Web-based job tracking platform with interactive Recharts dashboards, CRUD funct
 
 ---
 
-📫 [zeinab.r.yekta@gmail.com](mailto:zeinab.r.yekta@gmail.com) · [LinkedIn](https://linkedin.com/in/zeinab-ramezani) · Based in Berlin 🇩🇪
+· [LinkedIn](https://linkedin.com/in/zeinab-ramezani) · Based in Berlin 🇩🇪
